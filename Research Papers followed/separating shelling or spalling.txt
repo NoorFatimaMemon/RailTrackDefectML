@@ -1,0 +1,109 @@
+-
+
+:
+nu
+
+Separating
+
+Generally, experienced railroad maintenance per-
+sonnel are familiar with different types of rail defects
+and problems. Yet, there often appears to be a degree of
+confusion among the same people with regard to the
+several types of rail surface defects known as shelling,
+spalling or flaking. In fact, these terms have been used
+interchangeably to describe any surface defect associ-
+ated with the gage corner on the head of the rail.
+
+But there are significant differences. While spalling
+and flaking refer to similar surface phenomena, shelling
+is a distinctively different type of rail defect, having a
+failure mechanism that is unlike spalling or flaking.
+
+Spalling, or flaking, an example of which is illus-
+trated in Figure I, is a localized degradation of the run-
+ning surface of the rail. It is most commonly found at the
+gage corner of the high rail. This condition often reveals
+itself initially as head checks (micro-cracks) at the gage
+corner. Usually these cracks are oriented at an angle of
+45 degrees to the axis of the rail, and corresponding to
+the direction of traffic. The microcracks tend to propa-
+gate and coalesce into larger cracks or failure areas. In
+turn, these can break out from the surface of the head of
+rail. Spalling can also be found on the top surface of the
+rail head, often on the running surface of the low rail in
+curves.
+
+Spalling, cr flaking, is a surface phenomenon. 1t is
+shallow in depth, and is associated with areas of very
+
+Figure I — Spalling is a localized degradation comntonly found at
+the gage corner of the high rail.
+
+21
+
+Shelling or Spalling — . — . — . — . —
+
+high contact stresses. Usually, these defects do not
+progress deeply below the surface of the rail. Instead,
+they progress about 0.030 inch below the surface,
+towards the gage side of the railhead. Spalling appears
+to be a surface fatigue condition related to high shear
+stresses as well as normal contact stressing.
+
+Inclusion source?
+
+On the other hand, shelling, or more specifically,
+Gage Corner Shelling (see Figure 2), is a progressive
+internal separation that develops beneath the
+cold-worked region at the gage corner of the rail. Such a
+separation may propagate longitudinally along the rail
+and ordinarily at an angle to the rail axis. It can crack out
+at any level, usually near the upper gage corner.
+
+As the shells propagate, they can turn down and in
+to form a transverse separation, which is often referred
+to as a detail fracture from shelling. This transverse
+defect can develop at any stage of the shell’s longitudi-
+nal propagation. And since transverse defects in general,
+and the detail fracture in particular, are considered to be
+causes of rail breakage under [oad with possible derail-
+ment if not detected in time, these defects are particu-
+larly dangerous.
+
+Gage-corner shelling is a subsurface fatigue phe-
+nomenon associated with high contact stresses at the
+point of contact between the throat of the wheel and the
+
+Figure 2 — Gage Corner Shelling, on the other hand, is a progres-
+sive internal separation that can ‘crack out.’
+gage corner of the rail. Research studies have linked
+shelling with the presence of inclusions within the rail
+steel —- particularly non-metallic inclusions.’
+
+It is thus apparent that the two types of rail defects,
+shelling and spalling, are in fact quite distinct from each
+other, having differing appearances, occurrence mecha-
+nisms, and failure modes,
+
+Since these rail defects described have been found to
+occur in the same locations, and are related to high con-
+
+22
+
+tact stress conditions, there is a reason for the confusion
+
+between the two. In any event, these rail surface defects
+
+appear to be on the increase (see Tracking R&D, January
+
+1985). Therefore, the ability to distinguish between the
+
+two is quite important.
+
+References:
+
+1. Rail Defect Manual, Sperry Rail Services. Danbury, Connecticut, 1964,
+
+2. Sonon, D. E.. Pellegrino, J. V.. and Wandrisco, J. M.; “Metallurgical
+Examination of Rails with Service Developed Defects (Rail Analysis
+Volume 4)”, AAR R-300, March 1978.
