@@ -13,4 +13,4 @@ Features
   3. High precision and recall on defect detection
 
 
-![Uploading Basic Workflow of Implemented Methodology.PNG…]()
+![Basic Workflow of Implemented Methodology](https://github.com/user-attachments/assets/1923f625-03dc-4d40-ad6a-fcbea09bf16e)
