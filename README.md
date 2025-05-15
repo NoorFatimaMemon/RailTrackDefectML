@@ -14,3 +14,5 @@ Features
 
 
 ![Basic Workflow of Implemented Methodology](https://github.com/user-attachments/assets/1923f625-03dc-4d40-ad6a-fcbea09bf16e)
+
+![Data Samples](https://github.com/user-attachments/assets/bfc99b33-e114-4b72-89eb-1c6e10a0f500)
